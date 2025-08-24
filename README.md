@@ -59,5 +59,4 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
-## 보안 업데이트 완료 - 2025-08-23
-<!-- Updated for deployment -->
+## 보안 업데이트 완료 - 2025-08-23...
